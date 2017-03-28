@@ -1,4 +1,5 @@
-# Platforms
+# Setsuna
+*Attendance taking with sound*
 
 ## Android
 - [Using the Quiet library](https://github.com/ASDFDev/PAS-Quiet-Android)
