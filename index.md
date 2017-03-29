@@ -10,4 +10,4 @@
 - [Using the Google Nearby API](https://github.com/ASDFDev/PAS-Nearby-iOS)
 
 ## Web
-- [Using the Quiet library](https://github.com/ASDFDev/PAS-Backend)
+- [Backend](https://github.com/ASDFDev/PAS-Backend)
