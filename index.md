@@ -4,15 +4,16 @@
 [Learn more](background.md)
 
 ## Android
-- [Using the Quiet library](https://github.com/ASDFDev/PAS-Quiet-Android)
-- [Using the Google Nearby API](https://github.com/ASDFDev/PAS-Nearby-Android)
+- [Source code](https://github.com/ASDFDev/PAS-Quiet-Android)
+- [Prototype](https://github.com/ASDFDev/PAS-Nearby-Android)
 
 ## iOS
-- [Using the QuietModemKit](https://github.com/ASDFDev/PAS-Quiet-iOS)
-- [Using the Google Nearby API](https://github.com/ASDFDev/PAS-Nearby-iOS)
+- [Source code](https://github.com/ASDFDev/PAS-Quiet-iOS)
+- [Prototype](https://github.com/ASDFDev/PAS-Nearby-iOS)
 
 ## Web
-- [Backend](https://github.com/ASDFDev/PAS-Backend)
+- [Backend (PHP)](https://github.com/ASDFDev/PAS-Backend)
+- [Backend (ASP.NET)](https://github.com/ASDFDev/PAS-Backend-ASPNET)
 
 
 ## Authors:
