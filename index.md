@@ -1,7 +1,7 @@
 # Setsuna
 *Attendance taking using near-ultrasound*
 
-[Background info for this project](background_info.md)
+[Learn more](background.md)
 
 ## Android
 - [Using the Quiet library](https://github.com/ASDFDev/PAS-Quiet-Android)
@@ -20,7 +20,7 @@
 - Justin Xin(Minatosan)
 
 ## Acknowledgement
-Special thanks to Mr. Teo Shin Jen for guiding us throughout this project. This project was not possible without Brian Armstrong's [Quiet library](https://github.com/quiet/).
+Special thanks to Mr. Teo Shin Jen for guiding us throughout this project. This project will not be possible without Brian Armstrong's [Quiet library](https://github.com/quiet/).
 
 
 
@@ -28,4 +28,4 @@ Special thanks to Mr. Teo Shin Jen for guiding us throughout this project. This 
 
 
 
-`This project is NOT endrosed by Singapore Polytechnic and it DOES NOT help you to circumvent the system` 
+`This project is not endrosed by Singapore Polytechnic nor does it help you to circumvent the attendance taking system.` 
