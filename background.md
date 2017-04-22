@@ -1,5 +1,5 @@
 ## Background
-Setsuna was initially written as a drop-in replacement for Singapore Polytechnic(SP)'s [Attendance Taking System](https://web.archive.org/web/20160730032416/http://www.straitstimes.com/singapore/education/polys-app-attendance-system-stirs-concerns)(Commonly known as ATS) and it has since grown to be a much more advanced system.
+Setsuna was initially written as a drop-in replacement for Singapore Polytechnic's [Attendance Taking System](https://web.archive.org/web/20160730032416/http://www.straitstimes.com/singapore/education/polys-app-attendance-system-stirs-concerns) (also known as ATS). 
 
 
 The ATS is SP's homegrown solution to take students' attendance electronically. 
