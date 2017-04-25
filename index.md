@@ -16,7 +16,7 @@
 - [Backend (ASP.NET)](https://github.com/ASDFDev/PAS-Backend-ASPNET)
 
 
-[![Setsuna video](http://img.youtube.com/vi/GuQ-Y_PzM-E/0.jpg)](https://www.youtube.com/watch?v=GuQ-Y_PzM-E "Proximity Attendance System")
+[![Setsuna video](https://img.youtube.com/vi/GuQ-Y_PzM-E/0.jpg)](https://www.youtube.com/watch?v=GuQ-Y_PzM-E "Proximity Attendance System")
 
 ## Authors:
 - Daniel Quah(emansih)
