@@ -18,6 +18,8 @@
 
 [![Setsuna video](https://img.youtube.com/vi/GuQ-Y_PzM-E/0.jpg)](https://www.youtube.com/watch?v=GuQ-Y_PzM-E "Proximity Attendance System")
 
+See our [current implementations](current_implementations.md) for more details on Setsuna.
+
 ## Authors:
 - Daniel Quah(emansih)
 - Justin Xin(Minatosan)
